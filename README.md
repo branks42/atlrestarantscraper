@@ -1,2 +1,2 @@
 # atlrestaurantscraper
-Basic scraper, pulling from Yelp
+Web scraper, pulling from Yelp
